@@ -1,7 +1,7 @@
 # GridDraw
 Hex or square grid generator with several grid options
 
-This is a project I've thrown together to create a hex grid or square grid that can be exported to a PNG file.  Note: I've not bothered to make the code efficient since it runs quite smoothly as is with current dynamic redrawing.
+This is a Qt project I've thrown together to create a hex grid or square grid that can be exported to a PNG file.  Note: I've not bothered to make the code efficient since it runs quite smoothly as is with current dynamic redrawing.
 
 Grid Options:
   - select between hex or square grid style
